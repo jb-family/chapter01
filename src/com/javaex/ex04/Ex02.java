@@ -8,7 +8,7 @@ public class Ex02 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("단을 입력해주세요");
-		System.out.print("단 :");
+		System.out.print("단 :"); 
 		
 		int dan = sc.nextInt();
 		

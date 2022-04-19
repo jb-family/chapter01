@@ -7,7 +7,7 @@ public class Ex01 {
 	
 		while(i < 5) {	// 조건식
 			System.out.println("I like java" + i);
-			i++;	// 증감식 i = i+1;
+			i++;	// 증감식 i = i+1; 
 		}
 		
 		

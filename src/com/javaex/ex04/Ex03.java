@@ -11,5 +11,5 @@ public class Ex03 {
 		}
 		System.out.println("1부터" + "10까지의 정수의 합은 " + sum + " 입니다.");
 		
-	}
+	} 
 }
